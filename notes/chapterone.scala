@@ -20,3 +20,4 @@ Pure functions are less prone to bugs */
 *Substitution Model
 */
 
+//side effects make code difficult to test since they normally require some kind of outside interaction

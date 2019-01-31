@@ -5,6 +5,14 @@
     <option name="linkedExternalProjectsSettings">
       <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/answers" />
+            <option value="$PROJECT_DIR$/exercises" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
         <option name="resolveSbtClassifiers" value="true" />
         <option name="sbtVersion" value="0.13.13" />
         <option name="useSbtShellForImport" value="true" />
