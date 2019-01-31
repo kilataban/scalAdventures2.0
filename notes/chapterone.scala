@@ -20,4 +20,3 @@ Pure functions are less prone to bugs */
 *Substitution Model
 */
 
-//testing notes
