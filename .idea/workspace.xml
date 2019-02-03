@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a21e3a-e79d-4d94-bf26-cf265dd7c096" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/fpinscala-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/fpinscala-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/1.2.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/chapter1.1.2.sc" beforeDir="false" afterPath="$PROJECT_DIR$/notes/chapter1.1.2.sc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -25,29 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter1.1.1.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/notes/chapter1.1.2.sc">
+        <entry file="file://$PROJECT_DIR$/notes/1.2.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="709">
-              <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/chapterone.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="120">
+              <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -80,6 +60,7 @@
         <option value="$PROJECT_DIR$/notes/chapterone.scala" />
         <option value="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter1.1.1.sc" />
         <option value="$PROJECT_DIR$/notes/chapter1.1.2.sc" />
+        <option value="$PROJECT_DIR$/notes/1.2.sc" />
       </list>
     </option>
   </component>
@@ -152,7 +133,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548965192527" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549227430218" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -228,7 +209,7 @@
       <workItem from="1548961810566" duration="3229000" />
       <workItem from="1549038686571" duration="1853000" />
       <workItem from="1549222017424" duration="319000" />
-      <workItem from="1549222431612" duration="1441000" />
+      <workItem from="1549222431612" duration="2202000" />
     </task>
     <task id="LOCAL-00001" summary="Add first two code instances of Chapter One">
       <created>1548963856240</created>
@@ -251,17 +232,24 @@
       <option name="project" value="LOCAL" />
       <updated>1549052511063</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add anonymous functions instance using definition of coalesce method">
+      <created>1549226700692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549226700692</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6842000" />
+    <option name="totallyTimeSpent" value="7603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -283,7 +271,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -304,7 +292,8 @@
     <MESSAGE value="Add first two code instances of Chapter One" />
     <MESSAGE value="Add case class definition and field access syntax" />
     <MESSAGE value="Add butCoffee functional implementation integrating the usage of Lists, .fill, .reduce, and unzip methods and functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add butCoffee functional implementation integrating the usage of Lists, .fill, .reduce, and unzip methods and functionality" />
+    <MESSAGE value="Add anonymous functions instance using definition of coalesce method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add anonymous functions instance using definition of coalesce method" />
   </component>
   <component name="WorksheetDefaultProjectSettings">
     <option name="compilerProfileName" value="Default" />
@@ -318,6 +307,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/notes/chapter1.1.2.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notes/chapterone.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -325,10 +321,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/chapter1.1.2.sc">
+    <entry file="file://$PROJECT_DIR$/notes/1.2.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+        <state relative-caret-position="120">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
         </state>
       </provider>
     </entry>
