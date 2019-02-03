@@ -21,3 +21,7 @@ Pure functions are less prone to bugs */
 */
 
 //side effects make code difficult to test since they normally require some kind of outside interaction
+
+//An expression is any part of a program that can be evaluated to a result
+
+//PURE FUNCTIONS CAN BE FORMALIZED WITH THE CONCEPT OF REFERENTIAL TRANSPARENCY (RT)

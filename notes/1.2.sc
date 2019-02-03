@@ -10,4 +10,4 @@ If it really is a function, it'll complete one singular task
  */
 
 //scala pure function syntax
-A => B 
+A => B
