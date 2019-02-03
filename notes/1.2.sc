@@ -8,3 +8,6 @@ Any change of internal state is irrelevant to the result of the function f(a)
 
 If it really is a function, it'll complete one singular task
  */
+
+//scala pure function syntax
+A => B 
