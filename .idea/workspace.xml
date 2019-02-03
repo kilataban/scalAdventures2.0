@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a21e3a-e79d-4d94-bf26-cf265dd7c096" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/fpinscala-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/fpinscala-build.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes/chapter1.1.2.sc" beforeDir="false" afterPath="$PROJECT_DIR$/notes/chapter1.1.2.sc" afterDir="false" />
@@ -36,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notes/chapter1.1.2.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+            <state relative-caret-position="709">
+              <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -92,7 +93,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -146,6 +146,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,7 +226,9 @@
       <option name="presentableId" value="Default" />
       <updated>1548961805660</updated>
       <workItem from="1548961810566" duration="3229000" />
-      <workItem from="1549038686571" duration="1567000" />
+      <workItem from="1549038686571" duration="1853000" />
+      <workItem from="1549222017424" duration="319000" />
+      <workItem from="1549222431612" duration="1441000" />
     </task>
     <task id="LOCAL-00001" summary="Add first two code instances of Chapter One">
       <created>1548963856240</created>
@@ -241,17 +244,24 @@
       <option name="project" value="LOCAL" />
       <updated>1548965142600</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add butCoffee functional implementation integrating the usage of Lists, .fill, .reduce, and unzip methods and functionality">
+      <created>1549052511063</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549052511063</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4796000" />
+    <option name="totallyTimeSpent" value="6842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -293,7 +303,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add first two code instances of Chapter One" />
     <MESSAGE value="Add case class definition and field access syntax" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add case class definition and field access syntax" />
+    <MESSAGE value="Add butCoffee functional implementation integrating the usage of Lists, .fill, .reduce, and unzip methods and functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add butCoffee functional implementation integrating the usage of Lists, .fill, .reduce, and unzip methods and functionality" />
   </component>
   <component name="WorksheetDefaultProjectSettings">
     <option name="compilerProfileName" value="Default" />
@@ -316,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/chapter1.1.2.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        <state relative-caret-position="709">
+          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
         </state>
       </provider>
     </entry>

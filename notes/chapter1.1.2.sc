@@ -47,4 +47,11 @@ class Cafe{
       //charges.reduce reduces the entire list of charges to a single charge using combine to combine 2 charges at a time
       //Reduce is a Higher order Function (MORE IN CHAPTER 2)
     }
+
+  //a method for coallescing charges in a single session of several products can be acheived since Charge is now a first class
+  def coalesce(charges: List[Charge]): List[Charge] =
+    charges.groupBy(_.cc).values.map(_.reduce(_ combine _)).toList
+  /*this function takes a list of charges, groups them by the credit card used, then combines them into a single charge per card
+  it's reusable without the use of an interface
+   */
 }
