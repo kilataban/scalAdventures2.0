@@ -1,6 +1,6 @@
 //Functional programming is based on a simple premise with far reaching implications:
 
-/*
+/**
 This means that we construct our programs explicitly using PURE FUNCTIONS without SIDE EFFECTS
 SIDE EFFECTS are defined as something other than returning a result, e.g:
 1. Modifying a Variable
@@ -11,11 +11,11 @@ SIDE EFFECTS are defined as something other than returning a result, e.g:
 6. Reading from or writing to a file.
 7. Drawing on the screen. */
 
-/*Because of function modularity, pure functions are easier to TEST, REUSE, PARALLELIZE,
+/**Because of function modularity, pure functions are easier to TEST, REUSE, PARALLELIZE,
 GENERALIZE, AND REASON ABOUT.
 Pure functions are less prone to bugs */
 
-/*Two important concepts of FP
+/**Two important concepts of FP
 *Referential Integrity
 *Substitution Model
 */

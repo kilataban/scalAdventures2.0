@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a21e3a-e79d-4d94-bf26-cf265dd7c096" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/1.3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/chaptertwo.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/1.2.sc" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/1.2.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/chapter1.1.2.sc" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter1.1.2.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.1.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/chapterone.scala" beforeDir="false" afterPath="$PROJECT_DIR$/notes/chapterone.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -26,7 +26,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/1.2.sc">
+        <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter1.2.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
@@ -44,24 +44,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/1.3.sc">
+        <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter1.3.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.1.sc">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/chapterone.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="84" selection-start-line="26" selection-start-column="84" selection-end-line="26" selection-end-column="84" />
+            <state relative-caret-position="360">
+              <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notes/chaptertwo.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -99,10 +112,12 @@
       <list>
         <option value="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter1.1.1.sc" />
         <option value="$PROJECT_DIR$/notes/chapter1.1.2.sc" />
-        <option value="$PROJECT_DIR$/notes/chapterone.scala" />
         <option value="$PROJECT_DIR$/notes/1.2.sc" />
         <option value="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/1.2.sc" />
         <option value="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/1.3.sc" />
+        <option value="$PROJECT_DIR$/notes/chaptertwo.scala" />
+        <option value="$PROJECT_DIR$/notes/chapterone.scala" />
+        <option value="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.1.sc" />
       </list>
     </option>
   </component>
@@ -184,7 +199,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549393435351" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549394988369" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -266,7 +281,7 @@
       <workItem from="1549038686571" duration="1853000" />
       <workItem from="1549222017424" duration="319000" />
       <workItem from="1549222431612" duration="2881000" />
-      <workItem from="1549392224118" duration="694000" />
+      <workItem from="1549392224118" duration="2279000" />
     </task>
     <task id="LOCAL-00001" summary="Add first two code instances of Chapter One">
       <created>1548963856240</created>
@@ -317,14 +332,22 @@
       <option name="project" value="LOCAL" />
       <updated>1549228002070</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add completion of first chapter, illustrations of Referential Transparency(RT) and substitution model">
+      <created>1549393565513</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1549393565513</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8976000" />
+    <option name="totallyTimeSpent" value="10561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -373,7 +396,8 @@
     <MESSAGE value="Pure Functions definition" />
     <MESSAGE value="Syntactical expression of pure functions in Scala" />
     <MESSAGE value="Add definition of Referential Transparency within the context of Pure Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add definition of Referential Transparency within the context of Pure Functions" />
+    <MESSAGE value="Add completion of first chapter, illustrations of Referential Transparency(RT) and substitution model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add completion of first chapter, illustrations of Referential Transparency(RT) and substitution model" />
   </component>
   <component name="WorksheetDefaultProjectSettings">
     <option name="compilerProfileName" value="Default" />
@@ -390,14 +414,7 @@
     <entry file="file://$PROJECT_DIR$/project/build.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/chapterone.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="84" selection-start-line="26" selection-start-column="84" selection-end-line="26" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/1.2.sc">
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter1.2.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
@@ -411,10 +428,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/1.3.sc">
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter1.3.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/chaptertwo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/chapterone.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.1.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
         </state>
       </provider>
     </entry>
