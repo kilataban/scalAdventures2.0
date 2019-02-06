@@ -12,4 +12,24 @@ Tail Recursive functions and Polymorphic HoFs that use types as a guide toward i
   * A return type of Unit is often an indication of side effects
 
 
+   RUNNING OUR PROGRAM
+  *The simplest way to run Scala code is through the console (REPL)
+  *First it is placed in a scala file for compilation using the scalac compiler
+
+  *The syntax is scalac filename.scala
+  * This will return some files after compile time, the one with a class suffix should be run using the following syntax
+  * scala className
+
+  *Another method could be using the Scala Interpreter by passing the file to Scala commandline tool directly
+  * the syntax is scala filename.scala
+
+  *The final method is loading the source file onto the REPL using the syntax prompts as such
+  > scala
+
+  > :load MyModule.scala
+
+  > MyModule.abs(-42)
+
+  *The paste command also allows for the pasting of multiple lines of code
+
  */
