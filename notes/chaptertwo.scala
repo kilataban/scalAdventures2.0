@@ -32,4 +32,15 @@ Tail Recursive functions and Polymorphic HoFs that use types as a guide toward i
 
   *The paste command also allows for the pasting of multiple lines of code
 
+
+  MODULES, OBJECTS, AND NAMESPACES
+  *Every value in Scala is essentially and object.
+  * Each object may have zero or more members
+  * A MODULE is an object whose primary job is to give it's members a namespace
+  * A MEMBER can be defined using the 'def' keyword or with 'val' or 'object'
+  * Members of objects are accessed using the dot notation
+  * Access can be done using the objectName.member or in special cases reference using 'this'
+  * Scala has no notion of operators
+  * We can bring a member's scope by IMPORTING it which allows us to call it unqualified from then on.
+
  */
