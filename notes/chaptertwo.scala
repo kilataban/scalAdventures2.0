@@ -43,4 +43,12 @@ Tail Recursive functions and Polymorphic HoFs that use types as a guide toward i
   * Scala has no notion of operators
   * We can bring a member's scope by IMPORTING it which allows us to call it unqualified from then on.
 
+
+  HIGHER-ORDER FUNCTIONS: PASSING FUNCTIONS TO FUNCTIONS
+  *Functions are values therefore they can be assigned to variables, stored in Data Structures and passed as arguments to other functions
+  * When writing purely functional programs HoF (Higher order Functions) - functions that accept other functions as arguments are used.
+  *A recursive tail call essentially happens when the caller does nothing other than return the value of the recursive call.
+  * While loops can be written in scala but are generally considered bad form through hindering good compositional style.
+  *
+
  */

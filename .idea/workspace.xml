@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a21e3a-e79d-4d94-bf26-cf265dd7c096" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answers/exercise2.1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.4.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes/chaptertwo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/notes/chaptertwo.scala" afterDir="false" />
     </list>
@@ -24,7 +27,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.3.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -43,10 +46,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.1.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.4.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/answers/exercise2.1.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/chaptertwo.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="43" column="102" selection-start-line="43" selection-start-column="102" selection-end-line="43" selection-end-column="102" />
+            <state relative-caret-position="474">
+              <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -66,6 +96,9 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapterone</dir>
       <dir>$PROJECT_DIR$/exercises/src/main/scala/bookexamples</dir>
@@ -90,8 +123,10 @@
         <option value="$PROJECT_DIR$/notes/chapterone.scala" />
         <option value="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.1.sc" />
         <option value="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.2.sc" />
-        <option value="$PROJECT_DIR$/notes/chaptertwo.scala" />
         <option value="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.3.sc" />
+        <option value="$PROJECT_DIR$/notes/chaptertwo.scala" />
+        <option value="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.4.sc" />
+        <option value="$PROJECT_DIR$/answers/exercise2.1.sc" />
       </list>
     </option>
   </component>
@@ -105,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,41 +151,6 @@
               <item name="scaladventures2-0" type="b2602c69:ProjectViewProjectNode" />
               <item name="scalAdventures2.0" type="462c0819:PsiDirectoryNode" />
               <item name="answers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scaladventures2-0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scalAdventures2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scaladventures2-0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scalAdventures2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scaladventures2-0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scalAdventures2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scaladventures2-0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scalAdventures2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scaladventures2-0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scalAdventures2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="bookexamples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scaladventures2-0" type="b2602c69:ProjectViewProjectNode" />
@@ -168,12 +167,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549482813707" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549573500201" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -256,7 +256,8 @@
       <workItem from="1549222017424" duration="319000" />
       <workItem from="1549222431612" duration="2881000" />
       <workItem from="1549392224118" duration="2491000" />
-      <workItem from="1549457514298" duration="5056000" />
+      <workItem from="1549457514298" duration="5303000" />
+      <workItem from="1549551176705" duration="4421000" />
     </task>
     <task id="LOCAL-00001" summary="Add first two code instances of Chapter One">
       <created>1548963856240</created>
@@ -335,17 +336,24 @@
       <option name="project" value="LOCAL" />
       <updated>1549482076574</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add modules, objects, and namespaces as well as syntactic illustrations of imports and member calls using dot notation">
+      <created>1549482902904</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1549482902904</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15829000" />
+    <option name="totallyTimeSpent" value="20497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -361,7 +369,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32891566" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -396,10 +404,13 @@
     <MESSAGE value="Add the first segment of Chapter two on an Introduction to the Scala Language with Singleton Objects, types of comments, and private methods as well as main, and denoting blocks" />
     <MESSAGE value="Add three key methods for running scala code: through the terminal, scala interpreter, and REPL" />
     <MESSAGE value="Add synctatic representations of the three methods from the previous commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add synctatic representations of the three methods from the previous commit" />
+    <MESSAGE value="Add modules, objects, and namespaces as well as syntactic illustrations of imports and member calls using dot notation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add modules, objects, and namespaces as well as syntactic illustrations of imports and member calls using dot notation" />
   </component>
   <component name="WorksheetDefaultProjectSettings">
     <option name="compilerProfileName" value="Default" />
+    <option name="interactive" value="true" />
+    <option name="makeBeforeRun" value="true" />
     <option name="moduleName" value="fpinscala" />
   </component>
   <component name="editorHistoryManager">
@@ -417,20 +428,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.1.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter1.3.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter1.1.2.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -445,8 +442,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.3.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project/build.properties">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter1.3.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/chapterone.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -455,17 +466,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/chaptertwo.scala">
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.1.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="43" column="102" selection-start-line="43" selection-start-column="102" selection-end-line="43" selection-end-column="102" />
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.3.sc">
+    <entry file="file://$PROJECT_DIR$/notes/chaptertwo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="474">
+          <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.4.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answers/exercise2.1.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
