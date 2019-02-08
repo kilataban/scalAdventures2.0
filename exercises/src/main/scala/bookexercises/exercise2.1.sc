@@ -9,4 +9,4 @@ def fib(n: Int): Int = {
 
 }
 
-fib(6)
+fib(5)
