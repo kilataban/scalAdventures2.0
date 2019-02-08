@@ -47,8 +47,9 @@ Tail Recursive functions and Polymorphic HoFs that use types as a guide toward i
   HIGHER-ORDER FUNCTIONS: PASSING FUNCTIONS TO FUNCTIONS
   *Functions are values therefore they can be assigned to variables, stored in Data Structures and passed as arguments to other functions
   * When writing purely functional programs HoF (Higher order Functions) - functions that accept other functions as arguments are used.
-  *A recursive tail call essentially happens when the caller does nothing other than return the value of the recursive call.
+  * A recursive tail call essentially happens when the caller does nothing other than return the value of the recursive call.
   * While loops can be written in scala but are generally considered bad form through hindering good compositional style.
+  * Variable naming conventions - using single letters such as f,g, or h for readability since all that matters is type.
   *
 
  */
