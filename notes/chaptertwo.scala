@@ -54,6 +54,7 @@ Tail Recursive functions and Polymorphic HoFs that use types as a guide toward i
 
   POLYMORPHIC FUNCTIONS: ABSTRACTING OVER TYPES
   *Polymorphic functions are those that work with the 'Any' return type.
+  *There are two types of functions: polymorphic and monomorphic.
   *
 
  */

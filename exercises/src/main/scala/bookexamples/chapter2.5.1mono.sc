@@ -2,7 +2,7 @@
 def findFirst(ss: Array[String], key: String): Int = {
   @annotation.tailrec
   def loop(n: Int): Int =
-    if (n>= ss.length) -1
+    if (n >= ss.length) -1
       //if n is past the end of the array, return -1, indicating the key doesn't exist in the array
 
     else if (ss(n) == key) n
