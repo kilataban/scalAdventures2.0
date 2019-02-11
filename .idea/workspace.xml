@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a21e3a-e79d-4d94-bf26-cf265dd7c096" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.5.1poly.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/src/main/scala/bookexercises/exercise2.2.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.5.1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.5.1mono.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/chaptertwo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/notes/chaptertwo.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -43,11 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.5.1poly.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexercises/exercise2.2.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -116,6 +123,7 @@
         <option value="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.5.1.sc" />
         <option value="$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.5.1poly.sc" />
         <option value="$PROJECT_DIR$/notes/chaptertwo.scala" />
+        <option value="$PROJECT_DIR$/exercises/src/main/scala/bookexercises/exercise2.2.sc" />
       </list>
     </option>
   </component>
@@ -200,6 +208,15 @@
             <path>
               <item name="scaladventures2-0" type="b2602c69:ProjectViewProjectNode" />
               <item name="scalAdventures2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="bookexercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scaladventures2-0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalAdventures2.0" type="462c0819:PsiDirectoryNode" />
               <item name="notes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -218,7 +235,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549913581727" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549915104075" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -307,7 +324,7 @@
       <workItem from="1549551176705" duration="4591000" />
       <workItem from="1549619407532" duration="2653000" />
       <workItem from="1549656283221" duration="1026000" />
-      <workItem from="1549911370025" duration="2104000" />
+      <workItem from="1549911370025" duration="3594000" />
     </task>
     <task id="LOCAL-00001" summary="Add first two code instances of Chapter One">
       <created>1548963856240</created>
@@ -421,17 +438,23 @@
       <option name="project" value="LOCAL" />
       <updated>1549912532807</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add a polymorphic function implementation for finding a String/Any other type of value in an Array. Pushing generics to the limit">
+      <created>1549913662873</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1549913662873</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26450000" />
+    <option name="totallyTimeSpent" value="27940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -447,11 +470,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" order="8" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -487,7 +510,8 @@
     <MESSAGE value="Add tail recursion full object instantiation." />
     <MESSAGE value="Add abstraction using Higher order Functions (HoF), variable naming conventions for anonymous functions" />
     <MESSAGE value="Add monomorphic function for finding a String in an Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add monomorphic function for finding a String in an Array" />
+    <MESSAGE value="Add a polymorphic function implementation for finding a String/Any other type of value in an Array. Pushing generics to the limit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add a polymorphic function implementation for finding a String/Any other type of value in an Array. Pushing generics to the limit" />
   </component>
   <component name="WorksheetDefaultProjectSettings">
     <option name="compilerProfileName" value="Default" />
@@ -533,13 +557,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/build.properties">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.4.2HoF.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.3.sc">
       <provider selected="true" editor-type-id="text-editor">
@@ -597,10 +614,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.4.2HoF.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexamples/chapter2.5.1poly.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/bookexercises/exercise2.2.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
