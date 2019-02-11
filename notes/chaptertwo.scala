@@ -50,6 +50,10 @@ Tail Recursive functions and Polymorphic HoFs that use types as a guide toward i
   * A recursive tail call essentially happens when the caller does nothing other than return the value of the recursive call.
   * While loops can be written in scala but are generally considered bad form through hindering good compositional style.
   * Variable naming conventions - using single letters such as f,g, or h for readability since all that matters is type.
+
+
+  POLYMORPHIC FUNCTIONS: ABSTRACTING OVER TYPES
+  *Polymorphic functions are those that work with the 'Any' return type.
   *
 
  */
